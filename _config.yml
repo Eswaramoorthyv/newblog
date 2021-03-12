@@ -2,6 +2,5 @@ title: My First Web Page
 auth: BIT
 
 markdown: kramdown
-Theme: minima
+theme: minima
 
-theme: jekyll-theme-tactile
