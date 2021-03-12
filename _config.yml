@@ -3,3 +3,5 @@ auth: BIT
 
 markdown: kramdown
 Theme: minima
+
+theme: jekyll-theme-tactile
