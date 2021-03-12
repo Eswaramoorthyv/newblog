@@ -1,6 +1,6 @@
 ---
 layout: Page
-title:About
+title: About
 ---
 
 This is page for About
